@@ -2,7 +2,7 @@
 Interactive RoboFriends react app - Search Robots by their name and contact cards will be dynamically displayed.  
 
 ## [Live Preview](https://mrjatinchauhan.github.io/RoboFriends/)
-[![Screenshot - RoboFriends](Screenshot-RoboFriends.png)](https://mrjatinchauhan.github.io/RoboFriends/)
+[![Demo - RoboFriends](Demo-robofriends.gif)](https://mrjatinchauhan.github.io/RoboFriends/)
 
 ## To run this Project:
 1.  Clone this repo
